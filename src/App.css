@@ -1,0 +1,31 @@
+@import '~antd/dist/antd.css';
+
+.app {
+    height: 100%;
+}
+
+.appHeader {
+    height: 200px;
+    background: black;
+    text-align: center;
+}
+
+.appContent {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.headerText {
+    color: white;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.headerContents {
+    margin-top: 20px;
+}
+
