@@ -1,5 +1,4 @@
 import { Spin, Space} from 'antd';
-import {Photo} from "../Models/Photo";
 import React from "react";
 
 interface LoadingIndicatorProps {
