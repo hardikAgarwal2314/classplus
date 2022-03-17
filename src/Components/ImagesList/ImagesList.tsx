@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {getUrl} from "../../Services/ImageServices";
 import {Photo} from "../../Models/Photo";
 import {Modal, Empty, Card} from 'antd'
-import './ImagesList.scss';
+import './ImagesList.css';
 import Masonry from 'react-masonry-css'
 import InfiniteScroll from 'react-infinite-scroll-component';
 
